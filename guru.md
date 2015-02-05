@@ -1,3 +1,0 @@
-#Guru Namibia
-
-Cool stuffs
