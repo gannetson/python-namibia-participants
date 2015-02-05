@@ -1,2 +1,2 @@
-# vince knight
+# Vince Knight
 I really love Python.
